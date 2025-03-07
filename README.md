@@ -1,5 +1,3 @@
-# Globle-Superstore-Analysis
-
 # Global Superstore Analysis Using Power BI
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow)
@@ -70,12 +68,6 @@ The dataset includes key variables such as:
 - **🚛 Optimize shipping costs** by evaluating different shipping strategies.
 - **💵 Reevaluate discount policies** to ensure profitability is not adversely affected.
 - **🌍 Expand market reach** in low-performing regions to improve global sales distribution.
-
-## 📢 Conclusion
-The **Global Superstore analysis using Power BI** provides actionable insights into sales, profit trends, and operational performance. By leveraging these insights, the company can enhance business strategies, optimize product offerings, and improve regional sales effectiveness.
-
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgments
 - Thanks to **Global Superstore** for providing the dataset.
